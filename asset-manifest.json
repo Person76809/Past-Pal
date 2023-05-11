@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Past-Pal/static/css/main.29b5ecbd.css",
+    "main.js": "/Past-Pal/static/js/main.88a161f5.js",
+    "static/js/787.236de03b.chunk.js": "/Past-Pal/static/js/787.236de03b.chunk.js",
+    "index.html": "/Past-Pal/index.html",
+    "main.29b5ecbd.css.map": "/Past-Pal/static/css/main.29b5ecbd.css.map",
+    "main.88a161f5.js.map": "/Past-Pal/static/js/main.88a161f5.js.map",
+    "787.236de03b.chunk.js.map": "/Past-Pal/static/js/787.236de03b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b5ecbd.css",
+    "static/js/main.88a161f5.js"
+  ]
+}
